@@ -1,0 +1,42 @@
+.container{
+	
+}
+
+body{
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.row{
+	float: left;
+}
+.sections{
+	
+}
+#building{
+	float: right;
+	width: 400px;
+	height: 600px;
+}
+#attackBtn{
+	
+}
+#restartBtn{
+	display: none;
+}
+#tina{
+	width: 100px;
+	padding: 5px;
+} 
+#gene{
+	width: 100px;
+	padding: 5px;
+} 
+#louise{
+	width: 50px;
+	padding: 5px;
+} 
+#bob{
+	width: 75px;
+	padding: 5px;
+}
